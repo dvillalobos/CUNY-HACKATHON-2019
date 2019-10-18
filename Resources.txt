@@ -1,1 +1,14 @@
+# The Ultimate Guide To Speech Recognition With Python
 https://realpython.com/python-speech-recognition/
+
+
+# Resources list
+# Natural Language Understanding-9j
+
+
+# Getting started with custom models | Natural Language Understanding
+https://cloud.ibm.com/docs/services/natural-language-understanding?topic=natural-language-understanding-customizing
+
+
+# Creating a machine learning model
+https://cloud.ibm.com/docs/services/watson-knowledge-studio?topic=watson-knowledge-studio-wks_tutml_intro
